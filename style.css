@@ -1,4 +1,4 @@
-body {
+.kotak {
     font-size: 15pt;
 }
 .header,.footer {
@@ -27,7 +27,18 @@ body {
 }
 
     
+.sidebar,a{
+  
+    background: #bbb;
+     padding: 20px;   
+    margin-bottom:15px;
+    text-align: center;
+    border: 1px solid#888;
+    display: block;
+    text-decoration: none;
+    color: deepskyblue;
 
+}
 
 
 
